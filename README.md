@@ -96,8 +96,6 @@ In this project, I am trying to create a collection of Flutter samples.
 
 Eren C. - [@_yamisagi](https://twitter.com/_yamisagi)
 
-Project Link: [Flutter Quiz App](https://github.com/yamisagi/flutter_quiz_app)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
