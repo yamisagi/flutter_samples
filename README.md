@@ -82,7 +82,7 @@ In this project, I am trying to create a collection of Flutter samples.
 
 - [x] Lesson 1 - [Flutter Basics](/lib/basic_widgets/lesson1/)
 - [x] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
-- [ ] Lesson 3 - [Flutter Scrollable Items]() 
+- [ ] Lesson 3 - [Flutter Scrollable Items](/lib/basic_widgets/lesson3/) 
 - [ ] I will update roadmap.
 
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'basic_widgets/lesson2/popup_menu/popupmenu_learn.dart';
+import 'basic_widgets/lesson3/card_listtile/card_listtile_learn.dart';
 
 void main() => runApp(const CourseApp());
 
@@ -11,7 +11,7 @@ class CourseApp extends StatelessWidget {
     String title = 'This will take 92 hours.';
     return MaterialApp(
       title: title,
-      home: const PopupMenuLearn(),
+      home: const CardListTileLearn(),
     );
   }
 }
