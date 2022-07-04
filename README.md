@@ -59,6 +59,7 @@ In this project, I am trying to create a collection of Flutter samples.
 
 * Lesson 1 - [Flutter Basics](/lib/basic_widgets/lesson1/)
 * Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/)
+* Lesson 3 - [Flutter Basics 3](/lib/basic_widgets/lesson3/)
 
 
 
