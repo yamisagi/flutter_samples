@@ -19,7 +19,7 @@ class _BuildContextLearnState extends State<BuildContextLearn> {
     /// * Ve bilgi akışı da MaterialApp context --> BuildContextLearn context. Şeklinde haberleşiyor. 
     return Scaffold(
       appBar: AppBar(
-        title: Text('BuildContext Kullanımı'),
+        title: const Text('BuildContext Kullanımı'),
       ),
       body: Container(),
     );

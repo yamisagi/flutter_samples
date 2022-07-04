@@ -1,5 +1,3 @@
-import 'dart:ffi';
-import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 
@@ -12,7 +10,7 @@ class FadeInPlaceHolderLearn extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('FadeInPlaceHolder'),
+        title: const Text('FadeInPlaceHolder'),
       ),
       body: IntrinsicHeight(
         child: Row(

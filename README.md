@@ -81,7 +81,7 @@ In this project, I am trying to create a collection of Flutter samples.
 ## Roadmap
 
 - [x] Lesson 1 - [Flutter Basics](/lib/basic_widgets/lesson1/)
-- [ ] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
+- [x] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
 - [ ] Lesson 3 - [Flutter Scrollable Items]() 
 - [ ] I will update roadmap.
 
