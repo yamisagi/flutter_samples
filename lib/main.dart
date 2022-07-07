@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_samples/basic_widgets/lesson3/grid_view/gridview_builder_learn.dart';
+
+import 'basic_widgets/lesson3/gesture/gesture_learn.dart';
 
 
 /// HER LESSON DOSYADA BULUNAN CLASS'I [home] İÇERSİNDE KULLANIP ÖRNEKLERİ GÖREBİLİRSİNİZ.
@@ -14,7 +15,7 @@ class CourseApp extends StatelessWidget {
     String title = 'This will take 92 hours.';
     return MaterialApp(
       title: title,
-      home: const GridViewBuilderLearn(),
+      home: const GestureLearn(),
     );
   }
 }
