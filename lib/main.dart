@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'basic_widgets/lesson4/navigator_learn/navigator_pop_learn.dart';
+import 'basic_widgets/lesson4/navigator_learn/navigator_willpopscope_learn.dart';
 
 /// HER LESSON DOSYADA BULUNAN CLASS'I [home] İÇERSİNDE KULLANIP ÖRNEKLERİ GÖREBİLİRSİNİZ.
 /// TAMAMLANDIĞINDA TÜM LESSON'LAR İÇİN İSİMLENDİRİLMİŞ ROUTER'LER İLE KULLANIMINI ENTEGRE EDECEĞİM.
@@ -17,7 +17,7 @@ class CourseApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const NavigatorPopLearn(),
+      home: const WillPopSopeLearn(),
     );
   }
 }
