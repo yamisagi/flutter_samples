@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_samples/basic_widgets/lesson4/navigator_sample_pages/navigation_sample1.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/navigator_sample_pages/navigation_sample2.dart';
 
 /// * WillPopScope widget, [Navigator.pop()] içersinde gördüğümüz, butona bastığımızda sayfada oluşan sayıyı diğer değerini alıp dönderirken,
@@ -11,7 +10,7 @@ import 'package:flutter_samples/basic_widgets/lesson4/navigator_sample_pages/nav
 /// * child olarak Geri gelmek istenilen Widget'i veriyoruz. Ki genellikle Scaffold'dur.
 /// * onWillPop , ile de geri dönülmek istendiğinde çalışan ve Future nesnesi dönderen kontorol edeceğimiz yapı çalışır.
 /// ? Daha iyi kavramak için [DemoPageTwo] sayfasına push eden bir buton ve [DemoPageTwo] sayfası içerisinde,
-/// ? [WillPopScope] widget'ının kullanımı var. 
+/// ? [WillPopScope] widget'ının kullanımı var.
 class WillPopSopeLearn extends StatelessWidget {
   const WillPopSopeLearn({Key? key}) : super(key: key);
 
