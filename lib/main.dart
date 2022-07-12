@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_samples/basic_widgets/lesson4/pop_until_push_named_remove_until_learn/pop_until_usage.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
-import 'basic_widgets/lesson4/routes_learn/named_route_learn.dart';
 
 /// HER LESSON DOSYADA BULUNAN CLASS'I [home] İÇERSİNDE KULLANIP ÖRNEKLERİ GÖREBİLİRSİNİZ.
 /// TAMAMLANDIĞINDA TÜM LESSON'LAR İÇİN İSİMLENDİRİLMİŞ ROUTER'LER İLE KULLANIMINI ENTEGRE EDECEĞİM.
@@ -31,6 +31,7 @@ class CourseApp extends StatelessWidget {
       /// ? Fakat bu bizden {Route<dynamic>? Function(RouteSettings)? onUnknownRoute} şeklinde bir yapı bekliyor,
       /// ? Bu yapı bizim [routes] ile kontrol edemeyeceğimiz özellikleri kontrol etmemize olanak sağlar,
       /// ? Ve sayfadan sayfaya veri gönderip alabilmemizi sağlayan [RouteSettings] kullanabiliriz.
+      /// ? Cookbook [https://docs.flutter.dev/cookbook/navigation/navigate-with-arguments]
       /// -------------------------------------------------------------------------------------------------------
       /// ? [onUnknownRoute] parametresi, sayfa bulunamadığında ne yapacağını belirten bir yapıdır.
       /// ? İşleyiş olarak şöyle düşünebiliriz. [routes] --> [onGenerateRoute] --> [onUnknownRoute]
@@ -38,7 +39,7 @@ class CourseApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const NamedRouteLearn(),
+      home: const PopUntilLearn(),
     );
   }
 }

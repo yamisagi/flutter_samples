@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
+/// * [https://docs.flutter.dev/cookbook/navigation/named-routes]
+
 /// * İsimlendirilmiş Route'lar bizim [MaterialApp] içerisinde, 'routes' parametresinde,
 /// * Map şeklinde tanımladığımız ve bu Map'in key'lerine bir String, value'larına bir Widget'ının referansını verdiğimiz yapıdır.
 /// * Bu şekilde uygulamamızda isimlendirilmiş Route'ları kullanabiliriz, bu şekilde uygulamamız çok sayfalı ve geniş çaplı bir uygulamaysa,
 /// * Sayfalara daha düzenli şekilde erişebiliriz.
-/// * Genellikle route'ların key'lerine ' / ' ile başlarız. 
+/// * Genellikle route'ların key'lerine ' / ' ile başlarız.
 /// * Burda dikkat etmemiş gereken kısım, sadece ' / ' tanımlanan route bizim 'root' yani kök route'mizdir.
 /// * Bunu tanımladığımızda ya MaterialApp içerisinde 'home' parametresini kullanmayız, ya da ' / ' ile başlayan route'u kullanmayız.
 /// * İkisi aynı anda kullanılmaz.
