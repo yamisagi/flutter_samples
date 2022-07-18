@@ -64,6 +64,7 @@ In this project, I am trying to create a collection of Flutter samples.
 
 * Input Widgets
   - Lesson 1 - [Flutter Input Widgets 1](/lib/input_widgets/lesson1/)
+  - Lesson 2 - [Flutter Input Widgets 2](/lib/input_widgets/lesson2/)
 
 <p align="center">(Still working on it...)</p>
 
@@ -89,7 +90,8 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 3 - [Flutter Scrollable Items](/lib/basic_widgets/lesson3/) 
   - [x] Lesson 4 - [Flutter Navigation](/lib/basic_widgets/lesson4/)
 * Input Widgets
-  - [x] Lesson 1 - [Flutter TextField Widgets 1](/lib/input_widgets/lesson1/)
+  - [x] Lesson 1 - [Flutter TextField Widget](/lib/input_widgets/lesson1/)
+  - [x] Lesson 2 - [Flutter TextFormField Widget](/lib/input_widgets/lesson2/)
   - [ ] I will update this later
 
 
