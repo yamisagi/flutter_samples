@@ -56,13 +56,14 @@
 
 In this project, I am trying to create a collection of Flutter samples.
 
+* Basic Widgets :
+  - Lesson 1 - [Flutter Basics 1](/lib/basic_widgets/lesson1/)
+  - Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/)
+  - Lesson 3 - [Flutter Basics 3](/lib/basic_widgets/lesson3/)
+  - Lesson 4 - [Flutter Basics 4](/lib/basic_widgets/lesson4/)
 
-* Lesson 1 - [Flutter Basics](/lib/basic_widgets/lesson1/)
-* Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/)
-* Lesson 3 - [Flutter Basics 3](/lib/basic_widgets/lesson3/)
-* Lesson 4 - [Flutter Basics 4](/lib/basic_widgets/lesson4/)
-
-
+* Input Widgets
+  - Lesson 1 - [Flutter Input Widgets 1](/lib/input_widgets/lesson1/)
 
 <p align="center">(Still working on it...)</p>
 
@@ -82,11 +83,14 @@ In this project, I am trying to create a collection of Flutter samples.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Lesson 1 - [Flutter Basics](/lib/basic_widgets/lesson1/)
-- [x] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
-- [x] Lesson 3 - [Flutter Scrollable Items](/lib/basic_widgets/lesson3/) 
-- [x] Lesson 4 - [Flutter Navigation](/lib/basic_widgets/lesson4/)
-- [ ] I will update roadmap.
+* Basic Widgets :
+  - [x] Lesson 1 - [Flutter Basics 1](/lib/basic_widgets/lesson1/)
+  - [x] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
+  - [x] Lesson 3 - [Flutter Scrollable Items](/lib/basic_widgets/lesson3/) 
+  - [x] Lesson 4 - [Flutter Navigation](/lib/basic_widgets/lesson4/)
+* Input Widgets
+  - [x] Lesson 1 - [Flutter TextField Widgets 1](/lib/input_widgets/lesson1/)
+  - [ ] I will update this later
 
 
 

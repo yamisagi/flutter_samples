@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_samples/basic_widgets/lesson4/pop_until_push_named_remove_until_learn/pop_until_usage.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
+import 'package:flutter_samples/input_widgets/lesson1/textfield_learn.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
 
@@ -24,6 +24,7 @@ class CourseApp extends StatelessWidget {
         '/push_and_replacement': (context) => const PushAndReplacementLearn(),
         '/custom_scroll_view': (context) => const CustomScrollViewLearn(),
       },
+
       /// ? Burda [routes_learn] kısmında bahsettiğimiz onUnknownRoute ve onGenerateRoute parametrelerini kullanabileceğimiz,
       /// ? Bazı durumlardan bahsetmek gerekirse,
       /// ? Akıl karıştırmadan []
@@ -36,10 +37,11 @@ class CourseApp extends StatelessWidget {
       /// ? [onUnknownRoute] parametresi, sayfa bulunamadığında ne yapacağını belirten bir yapıdır.
       /// ? İşleyiş olarak şöyle düşünebiliriz. [routes] --> [onGenerateRoute] --> [onUnknownRoute]
       theme: ThemeData(
+        appBarTheme: const AppBarTheme(centerTitle: true),
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const PopUntilLearn(),
+      home: const TextFieldLearn(),
     );
   }
 }
