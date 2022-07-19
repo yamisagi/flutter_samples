@@ -67,9 +67,10 @@ In this project, I am trying to create a collection of Flutter samples.
 * Input Widgets
   - [x] Lesson 1 - [Flutter TextField Widget](/lib/input_widgets/lesson1/)
   - [x] Lesson 2 - [Flutter TextFormField Widget](/lib/input_widgets/lesson2/textform_field)
-  - [x] Lesson 3 - [Flutter GlobalKey Widget](/lib/input_widgets/lesson2/global_key)
-  - [x] Lesson 4 - [Flutter CheckBox etc. Widgets](/lib/input_widgets/lesson2/checkbox_radio_slider)
-  - [x] Lesson 5 - [Flutter Slider Widget](/lib/input_widgets/lesson2/slider)
+  - [x] Lesson 2 - [Flutter GlobalKey Widget](/lib/input_widgets/lesson2/global_key)
+  - [x] Lesson 2 - [Flutter CheckBox etc. Widgets](/lib/input_widgets/lesson2/checkbox_radio_slider)
+  - [x] Lesson 2 - [Flutter Slider Widget](/lib/input_widgets/lesson2/slider)
+  - [x] Lesson 3 - [Flutter Dropdown Widget](/lib/input_widgets/lesson3/dropdown_button)
   - [ ] I will update this later
 
 
