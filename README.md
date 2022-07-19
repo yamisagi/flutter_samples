@@ -56,31 +56,6 @@
 
 In this project, I am trying to create a collection of Flutter samples.
 
-* Basic Widgets :
-  - Lesson 1 - [Flutter Basics 1](/lib/basic_widgets/lesson1/)
-  - Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/)
-  - Lesson 3 - [Flutter Basics 3](/lib/basic_widgets/lesson3/)
-  - Lesson 4 - [Flutter Basics 4](/lib/basic_widgets/lesson4/)
-
-* Input Widgets
-  - Lesson 1 - [Flutter Input Widgets 1](/lib/input_widgets/lesson1/)
-  - Lesson 2 - [Flutter Input Widgets 2](/lib/input_widgets/lesson2/)
-
-<p align="center">(Still working on it...)</p>
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Flutter](https://flutter.dev/)
-* [Dart](https://dart.dev/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -98,6 +73,20 @@ In this project, I am trying to create a collection of Flutter samples.
   - [ ] I will update this later
 
 
+
+
+<p align="center">(Still working on it...)</p>
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+* [Flutter](https://flutter.dev/)
+* [Dart](https://dart.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
