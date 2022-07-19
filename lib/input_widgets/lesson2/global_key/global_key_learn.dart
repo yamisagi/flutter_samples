@@ -11,6 +11,7 @@ class GlobalKeyView extends StatelessWidget {
 
   /// Bir global key oluşturduk.
   /// ! Key'i tanımlarken, final GlobalKey globalkey = GlobalKey(); şeklinde yaparsak
+  /// ! Oluşturduğumuz key'i GlobalKey<State<StatefulWidget>> olarak göreceği için,
   /// ! Key' kullanımında hata alırsınız istediğiniz State' elemanlarına erişemezsiniz.
   final globalKey = GlobalKey<_GlobalIncrementState>();
 
