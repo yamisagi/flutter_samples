@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
-import 'package:flutter_samples/input_widgets/lesson2/checkbox_radio_slider/tile_elements_learn.dart';
-import 'package:flutter_samples/input_widgets/lesson2/global_key/global_key_learn.dart';
+import 'package:flutter_samples/input_widgets/lesson2/slider/slider_learn.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
 
@@ -38,11 +37,16 @@ class CourseApp extends StatelessWidget {
       /// ? [onUnknownRoute] parametresi, sayfa bulunamadığında ne yapacağını belirten bir yapıdır.
       /// ? İşleyiş olarak şöyle düşünebiliriz. [routes] --> [onGenerateRoute] --> [onUnknownRoute]
       theme: ThemeData(
-        appBarTheme: const AppBarTheme(centerTitle: true),
+        /// I like M3.
+        useMaterial3: true,
+        appBarTheme: const AppBarTheme(
+          centerTitle: true,
+          color: Colors.red,
+        ),
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const TileElements(),
+      home: const SliderLearn(),
     );
   }
 }
