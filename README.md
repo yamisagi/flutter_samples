@@ -6,7 +6,7 @@
   <h3 align="center">Flutter Samples</h3>
 
   <p align="center">
-    This is a collection of Flutter samples. It has comments and code, with explanations "How to use for most used Flutter widgets". I will add more samples as I learn more about Flutter. I hope this will useful for y'all ! </p>
+    This is a collection of Flutter samples. It has comments and code, with examples for the most used "Flutter Widgets". I will add more samples as I learn more about Flutter. I hope this will useful for y'all ! </p>
     <a href="https://github.com/yamisagi/yamisagi"><strong>About Me 💙»</strong></a>
     <br />
     <br />
