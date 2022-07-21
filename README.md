@@ -72,6 +72,7 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 2 - [Flutter Slider Widget](/lib/input_widgets/lesson2/slider)
   - [x] Lesson 3 - [Flutter Dropdown Widget](/lib/input_widgets/lesson3/dropdown_button)
   - [x] Lesson 3 - [Flutter DatePicker Widget](/lib/input_widgets/lesson3/date_time_picker)
+  - [x] Lesson 3 - [Flutter Stepper Widget](/lib/input_widgets/lesson3/stepper)
   - [ ] I will update this later
 
 

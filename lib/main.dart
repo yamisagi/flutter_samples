@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
-import 'package:flutter_samples/input_widgets/lesson3/date_time_picker/date_time_picker_learn.dart';
+import 'package:flutter_samples/input_widgets/lesson3/stepper/stepper_learn.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
 
@@ -40,13 +40,17 @@ class CourseApp extends StatelessWidget {
         /// I like M3.
         useMaterial3: true,
         appBarTheme: const AppBarTheme(
+          titleTextStyle: TextStyle(
+            fontSize: 25,
+            fontWeight: FontWeight.w600,
+          ),
           centerTitle: true,
           color: Colors.red,
         ),
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const DateTimePickerLearn(),
+      home: const StepperLearn(),
     );
   }
 }
