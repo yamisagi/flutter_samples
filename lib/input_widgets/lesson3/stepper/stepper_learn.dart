@@ -53,7 +53,7 @@ class _StepperLearnState extends State<StepperLearn> {
           /// [steps] parametresi, bizden içerisinde [Step] widget'ler bulunan bir Liste bekler.
           steps: _steps,
 
-          /// [currentStepIndex] parametresi, bizden o anki adımın indexini bekler.
+          /// [currentStep] parametresi, bizden o anki adımın indexini bekler.
           currentStep: currentIndex,
 
           /// [onStepTapped] parametresi, bizden bir adıma tıklandığında ne olacakğını bekleyen,
