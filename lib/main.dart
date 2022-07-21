@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
-import 'package:flutter_samples/input_widgets/lesson3/stepper/stepper_learn.dart';
+import 'package:flutter_samples/input_widgets/lesson3/stepper/stepper_advanced_usage.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
 
@@ -50,7 +50,7 @@ class CourseApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const StepperLearn(),
+      home: const StepperAdvancedLearn(),
     );
   }
 }
