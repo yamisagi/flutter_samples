@@ -80,6 +80,7 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 1 - [Flutter ExpansionTile Widget](/lib/advanced_widgets/lesson1/bottomnavbar/dummy_pages/home_dummy.dart)
   - [x] Lesson 1 - [Flutter PageStorageKey Usage](/lib/advanced_widgets/lesson1/bottomnavbar/navigation_to_pages.dart)
   - [x] Lesson 1 - [Flutter PageView Widget](/lib/advanced_widgets/lesson1/pageview/pageview_learn.dart)
+  - [x] Lesson 1 - [Flutter TabBar Widget](/lib/advanced_widgets/lesson1/tab_bar/tab_bar_learn.dart)
 
   - I will update this later
 
