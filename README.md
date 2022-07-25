@@ -64,7 +64,7 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 2 - [Flutter Basics 2](/lib/basic_widgets/lesson2/) 
   - [x] Lesson 3 - [Flutter Scrollable Items](/lib/basic_widgets/lesson3/) 
   - [x] Lesson 4 - [Flutter Navigation](/lib/basic_widgets/lesson4/)
-* Input Widgets
+* Input Widgets :
   - [x] Lesson 1 - [Flutter TextField Widget](/lib/input_widgets/lesson1/)
   - [x] Lesson 2 - [Flutter TextFormField Widget](/lib/input_widgets/lesson2/textform_field)
   - [x] Lesson 2 - [Flutter GlobalKey Widget](/lib/input_widgets/lesson2/global_key)
@@ -73,7 +73,11 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 3 - [Flutter Dropdown Widget](/lib/input_widgets/lesson3/dropdown_button)
   - [x] Lesson 3 - [Flutter DatePicker Widget](/lib/input_widgets/lesson3/date_time_picker)
   - [x] Lesson 3 - [Flutter Stepper Widget](/lib/input_widgets/lesson3/stepper)
-  - [ ] I will update this later
+* Advanced Widgets:
+  - [x] Lesson 1 - [Flutter Drawer Widget](/lib/advanced_widgets/lesson1/drawer_learn.dart)
+  - [x] Lesson 1 - [Flutter Inkwell Widget](/lib/advanced_widgets/lesson2/inkwell_learn.dart)
+
+  - I will update this later
 
 
 
