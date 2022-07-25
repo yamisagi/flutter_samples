@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_samples/advanced_widgets/lesson1/bottomnavbar/bottom_nav_bar_learn.dart';
 
-import 'package:flutter_samples/advanced_widgets/lesson1/drawer_inkwell/drawer_learn.dart';
-import 'package:flutter_samples/advanced_widgets/lesson1/drawer_inkwell/inkwell_learn.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
 
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
@@ -55,7 +54,7 @@ class CourseApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const InkwellLearn(),
+      home: const BottomNavBarLearn(),
     );
   }
 }
