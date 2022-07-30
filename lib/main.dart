@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_samples/advanced_widgets/lesson2/layoutbuilder/layout_builder.dart';
-
+import 'package:flutter_samples/advanced_widgets/lesson2/webview/webview_learn.dart';
 import 'package:flutter_samples/basic_widgets/lesson4/push_and_replacement/push_and_replacement_learn.dart';
-
 import 'basic_widgets/lesson3/custom_scroll_view_learn/customscroll_view_learn.dart';
 
 /// HER LESSON DOSYADA BULUNAN CLASS'I [home] İÇERSİNDE KULLANIP ÖRNEKLERİ GÖREBİLİRSİNİZ.
@@ -54,7 +52,7 @@ class CourseApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       title: title,
-      home: const LayoutBuilderLearn(),
+      home: const WebViewLearn(),
     );
   }
 }

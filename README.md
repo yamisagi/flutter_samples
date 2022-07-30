@@ -82,6 +82,7 @@ In this project, I am trying to create a collection of Flutter samples.
   - [x] Lesson 1 - [Flutter PageView Widget](/lib/advanced_widgets/lesson1/pageview/pageview_learn.dart)
   - [x] Lesson 1 - [Flutter TabBar Widget](/lib/advanced_widgets/lesson1/tab_bar/tab_bar_learn.dart)
   - [x] Lesson 2 - [Flutter LayoutBuilder Widget](/lib/advanced_widgets/lesson2/layoutbuilder/layout_builder.dart)
+  - [x] Lesson 2 - [Flutter WebView Widget](/lib/advanced_widgets/lesson2/webview/webview_learn.dart)
 
   - I will update this later
 
